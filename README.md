@@ -1,2 +1,2 @@
 # core
-A set of data structures and algorithms all in 1 library
+A set of data structures and algorithms all in one library
